@@ -1,4 +1,4 @@
-0## Hi there 👋
+
 
 <h1 align="center">Hi there, I'm Sandor-Cristian Popan 👋</h1>
 
